@@ -15,3 +15,10 @@ Nodemon Sellers
 
 cd Orders
 nodemon Orders
+
+
+Main Api entry point for Customers is the Users
+Main Api entry point for Sellers is the Sellers
+both end point will require JWT Token
+
+interneal services like Order / Cart / Product will be used by the main api but hidden to public
